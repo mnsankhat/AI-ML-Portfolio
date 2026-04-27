@@ -27,12 +27,27 @@ Welcome to my Machine Learning project portfolio. Below are my key projects:
 
 ---
 
+### ❤️ Heart Disease Prediction
+- Predicts risk of heart disease using ML model
+- Tech: Python, KNN, Scikit-learn, Streamlit
+- 🔗 GitHub: https://github.com/mnsankhat/heart-disease-prediction
+
+---
+
+### 💬 WhatsApp Chat Analyzer
+- Analyzes chat data with NLP & visualization
+- Tech: Python, Pandas, NLP, Streamlit
+- 🔗 GitHub: https://github.com/mnsankhat/whatsapp-chat-analyzer
+
+---
+
 ## 🛠️ Skills
 
 - Python
 - Machine Learning
 - Data Analysis
 - Pandas, NumPy, Scikit-learn
+- NLP (Natural Language Processing)
 - Streamlit
 
 ---
@@ -45,5 +60,5 @@ I am a Computer Engineering student passionate about Machine Learning and Data S
 
 ## 🔗 Connect with Me
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourusername  
+- GitHub: https://github.com/mnsankhat/ 
+- LinkedIn: https://www.linkedin.com/in/mahesh-sankhat-7a31b835a/  
