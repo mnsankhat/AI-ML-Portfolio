@@ -9,21 +9,21 @@ Welcome to my Machine Learning project portfolio. Below are my key projects:
 ### 📩 SMS Spam Detection
 - Classifies messages as Spam or Not Spam
 - Tech: Python, NLP, Scikit-learn, Streamlit
-- 🔗 GitHub: https://github.com/yourusername/spam-detection
+- 🔗 GitHub: https://github.com/mnsankhat/SMS-Spam-Classifier
 
 ---
 
 ### 🏠 House Price Prediction
 - Predicts house prices using ML model
 - Tech: Python, Random Forest, Streamlit
-- 🔗 GitHub: https://github.com/yourusername/house-price-prediction
+- 🔗 GitHub: https://github.com/mnsankhat/House-Price-Prediction
 
 ---
 
 ### 🎓 Student Placement Prediction
 - Predicts student placement outcome
 - Tech: Python, Classification, Streamlit
-- 🔗 GitHub: https://github.com/yourusername/student-placement-prediction
+- 🔗 GitHub: https://github.com/mnsankhat/Student-Placement-Prediction-System
 
 ---
 
