@@ -9,35 +9,35 @@ Welcome to my Machine Learning project portfolio. Below are my key projects:
 ### 📩 SMS Spam Detection
 - Classifies messages as Spam or Not Spam
 - Tech: Python, NLP, Scikit-learn, Streamlit
-- 🔗 GitHub: https://github.com/mnsankhat/SMS-Spam-Classifier
+- 🔗 GitHub: https://github.com/maheshsankhat/SMS-Spam-Classifier
 
 ---
 
 ### 🏠 House Price Prediction
 - Predicts house prices using ML model
 - Tech: Python, Random Forest, Streamlit
-- 🔗 GitHub: https://github.com/mnsankhat/House-Price-Prediction
+- 🔗 GitHub: https://github.com/maheshsankhat/House-Price-Prediction
 
 ---
 
 ### 🎓 Student Placement Prediction
 - Predicts student placement outcome
 - Tech: Python, Classification, Streamlit
-- 🔗 GitHub: https://github.com/mnsankhat/Student-Placement-Prediction-System
+- 🔗 GitHub: https://github.com/maheshsankhat/Student-Placement-Prediction-System
 
 ---
 
 ### ❤️ Heart Disease Prediction
 - Predicts risk of heart disease using ML model
 - Tech: Python, KNN, Scikit-learn, Streamlit
-- 🔗 GitHub: https://github.com/mnsankhat/Heart-Disease-Prediction-System
+- 🔗 GitHub: https://github.com/maheshsankhat/Heart-Disease-Prediction-System
 
 ---
 
 ### 💬 WhatsApp Chat Analyzer
 - Analyzes chat data with NLP & visualization
 - Tech: Python, Pandas, NLP, Streamlit
-- 🔗 GitHub: https://github.com/mnsankhat/WhatsApp-Chat-Analyzer
+- 🔗 GitHub: https://github.com/maheshsankhat/WhatsApp-Chat-Analyzer
 
 ---
 
